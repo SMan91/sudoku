@@ -149,8 +149,8 @@ let invpuzzle = [
 // console.log(getSection(puzzle, 2, 1));
 // console.log(getSection(puzzle, 2, 2));
 
-console.log(sudokuIsValid(puzzle));
-console.log(sudokuIsValid(invpuzzle));
+// console.log(sudokuIsValid(puzzle));
+// console.log(sudokuIsValid(invpuzzle));
 
-console.log(isSame(puzzle, invpuzzle));
-console.log(isSame(puzzle, puzzlecopy));
+// console.log(isSame(puzzle, invpuzzle));
+// console.log(isSame(puzzle, puzzlecopy));
